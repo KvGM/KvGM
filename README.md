@@ -1,5 +1,5 @@
 ### ¡Hola! 👋
-
+<img src="https://gpvc.arturio.dev/KvGM" alt="profile views">
 <!--
 **KvGM/KvGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
